@@ -299,15 +299,15 @@ html{
        width: 200px;
        height: 50px;
        background-color: #4aaaa5;
-       position: absolute;
-       overflow: hidden;
-       margin-top: 70px;
+       margin-bottom: 30px;
        display: flex;
        justify-content: center;
        align-items: center;
        color: white;
    }
-  
+   .imgBar a {
+       color: white;
+   }  
   
   /*---------------Footer---------------*/
   .footer{
