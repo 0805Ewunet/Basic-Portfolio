@@ -135,8 +135,8 @@ html{
   /*------------About Me--------------*/
   .main img,
   .main p1{
-      margin-left: 40px;
-      margin-top: 10px;
+     margin-left: 25px;
+     margin-top: none;
   }
   .main h1{
       width: 80%;
@@ -174,7 +174,7 @@ html{
       margin-top: 10px;
   }
   .mainContact h1{
-      width: 80%;
+      width: 75%;
       padding-bottom: 30px;
       color: #4aaaa5;
       font-weight: bold;
