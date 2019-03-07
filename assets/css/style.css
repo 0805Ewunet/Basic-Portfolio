@@ -130,19 +130,23 @@ html{
       height: 60px;
       width: 60px;
   }
+  .side .imgTwitter{
+      height: 60px;
+      width: 60px;
+  }
   
   
   /*------------About Me--------------*/
   .main img,
   .main p1{
-     margin-left: 25px;
+     margin-left: 20px;
      margin-top: none;
   }
   .main h1{
       width: 80%;
       padding-bottom: 30px;
       color: #4aaaa5;
-      font-size: 25px;
+      font-size: 20px;
       font-weight: bold;
       margin:40px 0 30px 40px;
       border-bottom-style: solid;
@@ -151,10 +155,10 @@ html{
       border-width: 3px;
   }
   .main img{
-      width: 250px;
+      width: 200px;
   }
   .main p{
-      width: 325px;
+      width: 400px;
       float: right;
       line-height: 30px;
       display: block;
