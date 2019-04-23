@@ -135,7 +135,6 @@ html{
       width: 60px;
   }
   
-  
   /*------------About Me--------------*/
   .main img,
   .main p1{
@@ -220,7 +219,6 @@ html{
       margin: 30px 0 0 40px;
   }
   
-  
   /*------------------------------------*/
   
   /*----------------Portfolio-----------*/
@@ -246,7 +244,6 @@ html{
   
   .mainPortfolio{
       width:615px;
-      height: 650px;
       background-color: #ffffff;
       border: 2px solid #cccccc;
       overflow: hidden;
@@ -320,7 +317,6 @@ html{
       border-top-style: solid;
       border-color: #eeffff;
       border-width: 10px;
-  
       position: absolute;
       bottom: -100px;
   
