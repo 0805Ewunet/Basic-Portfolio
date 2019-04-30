@@ -243,9 +243,8 @@ html{
   }
   
   .mainPortfolio{
-      width:615px;
+      width:415px;
       background-color: #ffffff;
-      border: 2px solid #cccccc;
       overflow: hidden;
       float: left;
       margin: 70px 0 0 200px;
@@ -301,6 +300,7 @@ html{
        background-color: #4aaaa5;
        margin-bottom: 30px;
        display: flex;
+       float:left;
        justify-content: center;
        align-items: center;
        color: white;
